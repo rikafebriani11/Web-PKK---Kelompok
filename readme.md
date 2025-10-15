@@ -4,4 +4,4 @@
 - Haura Aqila Hazimah
 - Rika Febriani
 - Syifa Utsania
-- Shinta Destiani Nurzahra
+- Shinta Destianty Nurzahra
