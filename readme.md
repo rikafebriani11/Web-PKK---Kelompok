@@ -1,7 +1,10 @@
 # Anggota SSHARK FOOD 
-- Alzena Vellicia Sherly
-- Keisha Al Zahra
-- Haura Aqila Hazimah
-- Rika Febriani
 - Syifa Utsania
-- Shinta Destianty Nurzahra
+- Shinta Destianty Nur Zahra
+- Haura Aqila Hazimah
+- Alzena Vellicia Sherly
+- Rika Febriani
+- Keisha Al Zahra
+
+
+
